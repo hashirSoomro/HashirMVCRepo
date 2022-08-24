@@ -18,7 +18,6 @@ namespace ConsoleApp3
         {
             
             Services.AddControllersWithViews();
-            //services.AddControllersWithViews();
         }
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
